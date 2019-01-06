@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "GIT TEST",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huephase/git-test.git"
+  },
+  "keywords": [
+    "git",
+    "test",
+    "testing"
+  ],
+  "author": "FE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huephase/git-test/issues"
+  },
+  "homepage": "https://github.com/huephase/git-test#readme"
+}
